@@ -6,18 +6,17 @@
     "discover": "node src/discover-repos.js",
     "clone": "node src/clone-repos.js",
     "extract": "node src/extract.js",
-    "midi": "node src/midi.js",
     "svg": "node src/svg.js",
-    "generate": "node src/extract.js && node src/midi.js && node src/svg.js",
-    "all": "node src/discover-repos.js && node src/clone-repos.js && node src/extract.js && node src/midi.js && node src/svg.js",
+    "markdown": "node src/markdown.js",
+    "generate": "node src/extract.js && node src/svg.js && node src/markdown.js",
+    "all": "node src/discover-repos.js && node src/clone-repos.js && node src/extract.js && node src/svg.js",
     "dev": "vite"
   },
   "keywords": [],
   "author": "Philipp Fromme",
-  "license": "ISC",
-  "description": "10-year anniversary: git history → MIDI + SVG",
+  "license": "MIT",
+  "description": "10-year anniversary: git history visualization",
   "dependencies": {
-    "@tonejs/midi": "^2.0.28",
     "dotenv": "^16.4.7",
     "p-limit": "^6.2.0"
   },
