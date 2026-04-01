@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>10X Developer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      /* ── Reset ── */
+      *,
+      *::before,
+      *::after {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      /* ── Dieter Rams / Bauhaus ── */
+      :root {
+        --bg: #ffffff;
+        --fg: #1a1a1a;
+        --fg-secondary: #6b6b6b;
+        --fg-tertiary: #a0a0a0;
+        --accent: #30a14e;
+        --accent-light: rgba(48, 161, 78, 0.12);
+        --rule: #d0ccc6;
+        --rule-light: #e5e2dd;
+        --sans: "Space Mono", monospace;
+        --mono: "Space Mono", monospace;
+        --transition: 0.2s ease;
+      }
+
+      html,
+      body {
+        width: 100%;
+        height: 100%;
+        overflow: hidden;
+      }
+
+      body {
+        background: var(--bg);
+        color: var(--fg);
+        font-family: var(--sans);
+        -webkit-font-smoothing: antialiased;
+      }
+
+      canvas {
+        display: block;
+        position: fixed;
+        inset: 0;
+      }
+
+      /* ── Loading ── */
+      .loading-overlay {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+        background: var(--bg);
+        z-index: 100;
+        font-size: 11px;
+        font-family: var(--sans);
+        font-weight: 500;
+        color: var(--fg-secondary);
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        transition: opacity 0.4s ease;
+      }
+
+      .loading-overlay.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      .loading-overlay .spinner {
+        width: 14px;
+        height: 14px;
+        border: 2px solid var(--rule);
+        border-top-color: var(--accent);
+        border-radius: 50%;
+        animation: spin 0.7s linear infinite;
+      }
+
+      @keyframes spin {
+        to {
+          transform: rotate(360deg);
+        }
+      }
+
+      /* ── Start overlay ── */
+      #start-overlay {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        z-index: 50;
+        transition: opacity 0.6s ease;
+      }
+
+      #start-overlay.hidden {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      /* GitHub-style contribution marquee background */
+      .start-bg {
+        position: absolute;
+        inset: 0;
+        display: flex;
+        align-items: center;
+        overflow: hidden;
+      }
+
+      .start-grid {
+        display: flex;
+        flex-direction: row;
+        gap: 3px;
+        padding: 24px 0;
+        white-space: nowrap;
+        animation: marquee-scroll 60s linear infinite;
+        transition: transform 1.5s ease;
+      }
+
+      @keyframes marquee-scroll {
+        from {
+          transform: translateX(0);
+        }
+        to {
+          transform: translateX(-50%);
+        }
+      }
+
+      .start-grid-cell {
+        width: 14px;
+        height: 14px;
+        border-radius: 2px;
+        flex-shrink: 0;
+        transition:
+          height 1.5s ease,
+          border-radius 1.5s ease;
+      }
+
+      .start-card {
+        position: relative;
+        z-index: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 16px;
+        max-width: 80%;
+        opacity: 0;
+        transform: translateY(12px);
+        transition:
+          opacity 0.8s ease,
+          transform 0.8s ease;
+        pointer-events: none;
+      }
+
+      .start-card.visible {
+        opacity: 1;
+        transform: translateY(0);
+        pointer-events: auto;
+      }
+
+      #start-counter {
+        position: relative;
+        z-index: 1;
+        font-size: 72px;
+        font-family: var(--sans);
+        font-weight: 700;
+        color: var(--fg);
+        letter-spacing: -0.02em;
+        transition: opacity 0.4s ease;
+        animation: counter-shake 0.1s linear infinite;
+        --shake: 0px;
+      }
+
+      @keyframes counter-shake {
+        0% {
+          transform: translate(var(--shake), var(--shake));
+        }
+        25% {
+          transform: translate(calc(-1 * var(--shake)), var(--shake));
+        }
+        50% {
+          transform: translate(var(--shake), calc(-1 * var(--shake)));
+        }
+        75% {
+          transform: translate(
+            calc(-1 * var(--shake)),
+            calc(-1 * var(--shake))
+          );
+        }
+        100% {
+          transform: translate(var(--shake), var(--shake));
+        }
+      }
+
+      #start-counter.hidden {
+        opacity: 0;
+      }
+
+      #start-counter.explode {
+        animation: counter-explode 0.8s ease forwards;
+      }
+
+      @keyframes counter-explode {
+        0% {
+          transform: scale(1);
+          opacity: 1;
+        }
+        100% {
+          transform: scale(20);
+          opacity: 0;
+        }
+      }
+
+      #start-title {
+        font-size: 32px;
+        font-family: var(--sans);
+        font-weight: 700;
+        letter-spacing: -0.02em;
+        color: var(--fg);
+        text-align: center;
+        line-height: 1.15;
+      }
+
+      #start-sub {
+        font-size: 18px;
+        font-family: var(--sans);
+        font-weight: 700;
+        letter-spacing: 0.04em;
+        color: var(--fg);
+      }
+
+      #start-action {
+        font-size: 12px;
+        font-family: var(--sans);
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: #fff;
+        margin-top: 32px;
+        padding: 14px 36px;
+        background: var(--fg);
+        border: none;
+        cursor: pointer;
+        transition: all var(--transition);
+      }
+
+      #start-action:hover {
+        background: var(--accent);
+      }
+
+      #start-action:active {
+        transform: scale(0.97);
+      }
+
+      /* ── End modal ── */
+      #end-overlay {
+        position: fixed;
+        inset: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        background: rgba(245, 243, 240, 0.85);
+        z-index: 60;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.6s ease;
+      }
+
+      #end-overlay.visible {
+        opacity: 1;
+        pointer-events: auto;
+      }
+
+      .end-card {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 48px 56px;
+        background: #fff;
+        border: 1px solid var(--rule);
+        min-width: 360px;
+        max-width: 480px;
+      }
+
+      .end-title {
+        font-size: 13px;
+        font-family: var(--sans);
+        font-weight: 600;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--fg-secondary);
+      }
+
+      .end-total {
+        font-size: 48px;
+        font-family: var(--sans);
+        font-weight: 700;
+        color: var(--fg);
+        line-height: 1;
+        letter-spacing: -0.02em;
+      }
+
+      .end-total-label {
+        font-size: 11px;
+        font-family: var(--sans);
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        color: var(--fg-tertiary);
+        margin-top: -10px;
+      }
+
+      .end-repos {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        border-top: 2px solid var(--fg);
+      }
+
+      .end-repo-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 8px 0;
+        border-bottom: 1px solid var(--rule-light);
+      }
+
+      .end-repo-row:last-child {
+        border-bottom: none;
+      }
+
+      .end-repo-rank {
+        font-size: 11px;
+        font-family: var(--sans);
+        font-weight: 600;
+        color: var(--fg-tertiary);
+        width: 24px;
+        flex-shrink: 0;
+      }
+
+      .end-repo-name {
+        font-size: 12px;
+        font-family: var(--mono);
+        color: var(--fg);
+        flex: 1;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+
+      .end-repo-count {
+        font-size: 12px;
+        font-family: var(--mono);
+        font-weight: 600;
+        color: var(--fg-secondary);
+        margin-left: 16px;
+        flex-shrink: 0;
+      }
+
+      #replay-action {
+        font-size: 12px;
+        font-family: var(--sans);
+        font-weight: 600;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: #fff;
+        padding: 14px 36px;
+        background: var(--fg);
+        border: none;
+        cursor: pointer;
+        transition: all var(--transition);
+      }
+
+      #replay-action:hover {
+        background: var(--accent);
+      }
+
+      #replay-action:active {
+        transform: scale(0.97);
+      }
+
+      .github-link {
+        position: absolute;
+        bottom: 24px;
+        right: 24px;
+        z-index: 2;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 8px;
+        background: var(--fg);
+        color: #fff;
+        text-decoration: none;
+        cursor: pointer;
+        transition:
+          background var(--transition),
+          transform var(--transition);
+      }
+
+      .github-link:hover {
+        background: var(--accent);
+      }
+
+      .github-link:active {
+        transform: scale(0.97);
+      }
+    </style>
+    <script type="module" crossorigin src="/anniversary/assets/index-6_gaVQ-R.js"></script>
+  </head>
+  <body>
+    <div class="loading-overlay" id="loading">
+      <div class="spinner"></div>
+      LOADING
+    </div>
+    <div id="start-overlay" style="display: none">
+      <div class="start-bg">
+        <div class="start-grid" id="start-grid"></div>
+      </div>
+      <div id="start-counter">0</div>
+      <div class="start-card">
+        <div id="start-title">10 years x 1 developer = 10X developer</div>
+        <div id="start-sub">My first 10 years at Camunda</div>
+        <button id="start-action">Let's see some commits</button>
+      </div>
+      <a
+        href="https://github.com/philippfromme"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="github-link"
+        ><svg
+          aria-hidden="true"
+          focusable="false"
+          viewBox="0 0 24 24"
+          width="18"
+          height="18"
+          fill="currentColor"
+        >
+          <path
+            d="M10.226 17.284c-2.965-.36-5.054-2.493-5.054-5.256 0-1.123.404-2.336 1.078-3.144-.292-.741-.247-2.314.09-2.965.898-.112 2.111.36 2.83 1.01.853-.269 1.752-.404 2.853-.404 1.1 0 1.999.135 2.807.382.696-.629 1.932-1.1 2.83-.988.315.606.36 2.179.067 2.942.72.854 1.101 2 1.101 3.167 0 2.763-2.089 4.852-5.098 5.234.763.494 1.28 1.572 1.28 2.807v2.336c0 .674.561 1.056 1.235.786 4.066-1.55 7.255-5.615 7.255-10.646C23.5 6.188 18.334 1 11.978 1 5.62 1 .5 6.188.5 12.545c0 4.986 3.167 9.12 7.435 10.669.606.225 1.19-.18 1.19-.786V20.63a2.9 2.9 0 0 1-1.078.224c-1.483 0-2.359-.808-2.987-2.313-.247-.607-.517-.966-1.034-1.033-.27-.023-.359-.135-.359-.27 0-.27.45-.471.898-.471.652 0 1.213.404 1.797 1.235.45.651.921.943 1.483.943.561 0 .92-.202 1.437-.719.382-.381.674-.718.944-.943"
+          ></path></svg
+      ></a>
+    </div>
+    <div id="end-overlay">
+      <div class="end-card">
+        <div class="end-title">10x achieved!</div>
+        <div class="end-total" id="end-total">0</div>
+        <div class="end-total-label">commits across 10 years</div>
+        <div class="end-repos" id="end-repos"></div>
+        <button id="replay-action">Let's see some commits again</button>
+      </div>
+      <a
+        href="https://github.com/philippfromme"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="github-link"
+        ><svg
+          aria-hidden="true"
+          focusable="false"
+          viewBox="0 0 24 24"
+          width="18"
+          height="18"
+          fill="currentColor"
+        >
+          <path
+            d="M10.226 17.284c-2.965-.36-5.054-2.493-5.054-5.256 0-1.123.404-2.336 1.078-3.144-.292-.741-.247-2.314.09-2.965.898-.112 2.111.36 2.83 1.01.853-.269 1.752-.404 2.853-.404 1.1 0 1.999.135 2.807.382.696-.629 1.932-1.1 2.83-.988.315.606.36 2.179.067 2.942.72.854 1.101 2 1.101 3.167 0 2.763-2.089 4.852-5.098 5.234.763.494 1.28 1.572 1.28 2.807v2.336c0 .674.561 1.056 1.235.786 4.066-1.55 7.255-5.615 7.255-10.646C23.5 6.188 18.334 1 11.978 1 5.62 1 .5 6.188.5 12.545c0 4.986 3.167 9.12 7.435 10.669.606.225 1.19-.18 1.19-.786V20.63a2.9 2.9 0 0 1-1.078.224c-1.483 0-2.359-.808-2.987-2.313-.247-.607-.517-.966-1.034-1.033-.27-.023-.359-.135-.359-.27 0-.27.45-.471.898-.471.652 0 1.213.404 1.797 1.235.45.651.921.943 1.483.943.561 0 .92-.202 1.437-.719.382-.381.674-.718.944-.943"
+          ></path></svg
+      ></a>
+    </div>
+    <canvas id="canvas"></canvas>
+  </body>
+</html>

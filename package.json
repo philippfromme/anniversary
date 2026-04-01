@@ -10,6 +10,7 @@
     "markdown": "node src/markdown.js",
     "generate": "node src/extract.js && node src/svg.js && node src/markdown.js",
     "all": "node src/discover-repos.js && node src/clone-repos.js && node src/extract.js && node src/svg.js",
+    "build": "vite build",
     "dev": "vite"
   },
   "keywords": [],

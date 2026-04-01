@@ -81,7 +81,7 @@ function formatDate(ms) {
 // ============================================================
 
 async function loadData() {
-  const resp = await fetch("/commits.json");
+  const resp = await fetch("commits.json");
   commits = await resp.json();
 
   for (const c of commits) {

@@ -1,0 +1,547 @@
+[
+  {
+    "owner": "bpmn-io",
+    "repo": "align-to-origin",
+    "cloneUrl": "https://github.com/bpmn-io/align-to-origin.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bower-bpmn-js",
+    "cloneUrl": "https://github.com/bpmn-io/bower-bpmn-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-auto-layout",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-auto-layout.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-io-callbacks-to-promises",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-io-callbacks-to-promises.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-io-demo",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-io-demo.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-bpmnlint",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-bpmnlint.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-cli",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-cli.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-color-picker",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-color-picker.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-connectors-extension",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-connectors-extension.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-create-append-anything",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-create-append-anything.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-differ",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-differ.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-element-templates",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-element-templates.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-example-custom-controls",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-example-custom-controls.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-example-custom-elements",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-example-custom-elements.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-example-custom-rendering",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-example-custom-rendering.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-example-custom-shapes",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-example-custom-shapes.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-example-model-extension",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-example-model-extension.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-examples",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-examples.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-i18n",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-i18n.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-integration",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-integration.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-nyan",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-nyan.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-properties-panel",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-properties-panel.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-seed",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-seed.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-signavio-compat",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-signavio-compat.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-sketchy",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-sketchy.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-token-simulation",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-token-simulation.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-js-tracking",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-js-tracking.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-moddle",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-moddle.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-properties-panel",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-properties-panel.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn-questionnaire-example",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn-questionnaire-example.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmn.io",
+    "cloneUrl": "https://github.com/bpmn-io/bpmn.io.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "bpmnlint",
+    "cloneUrl": "https://github.com/bpmn-io/bpmnlint.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "camunda-forms",
+    "cloneUrl": "https://github.com/bpmn-io/camunda-forms.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "cmmn-js",
+    "cloneUrl": "https://github.com/bpmn-io/cmmn-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "cmmn-js-properties-panel",
+    "cloneUrl": "https://github.com/bpmn-io/cmmn-js-properties-panel.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "cmof-parser",
+    "cloneUrl": "https://github.com/bpmn-io/cmof-parser.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js-direct-editing",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js-direct-editing.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js-examples",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js-examples.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js-grid",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js-grid.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js-minimap",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js-minimap.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js-origin",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js-origin.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "diagram-js-ui",
+    "cloneUrl": "https://github.com/bpmn-io/diagram-js-ui.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "dmn-font",
+    "cloneUrl": "https://github.com/bpmn-io/dmn-font.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "dmn-js",
+    "cloneUrl": "https://github.com/bpmn-io/dmn-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "dmn-js-examples",
+    "cloneUrl": "https://github.com/bpmn-io/dmn-js-examples.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "dmn-js-properties-panel",
+    "cloneUrl": "https://github.com/bpmn-io/dmn-js-properties-panel.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "dmn-migrate",
+    "cloneUrl": "https://github.com/bpmn-io/dmn-migrate.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "dmn-moddle",
+    "cloneUrl": "https://github.com/bpmn-io/dmn-moddle.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "element-template-icon-renderer",
+    "cloneUrl": "https://github.com/bpmn-io/element-template-icon-renderer.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "element-templates",
+    "cloneUrl": "https://github.com/bpmn-io/element-templates.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "element-templates-validator",
+    "cloneUrl": "https://github.com/bpmn-io/element-templates-validator.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "eslint-plugin-bpmn-io",
+    "cloneUrl": "https://github.com/bpmn-io/eslint-plugin-bpmn-io.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "extract-process-variables",
+    "cloneUrl": "https://github.com/bpmn-io/extract-process-variables.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "feel-editor",
+    "cloneUrl": "https://github.com/bpmn-io/feel-editor.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "form-js",
+    "cloneUrl": "https://github.com/bpmn-io/form-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "form-js-examples",
+    "cloneUrl": "https://github.com/bpmn-io/form-js-examples.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "hour-of-code",
+    "cloneUrl": "https://github.com/bpmn-io/hour-of-code.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "internal-docs",
+    "cloneUrl": "https://github.com/bpmn-io/internal-docs.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "min-dash",
+    "cloneUrl": "https://github.com/bpmn-io/min-dash.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "mini-play",
+    "cloneUrl": "https://github.com/bpmn-io/mini-play.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "moddle-utils",
+    "cloneUrl": "https://github.com/bpmn-io/moddle-utils.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "moddle-xml",
+    "cloneUrl": "https://github.com/bpmn-io/moddle-xml.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "object-refs",
+    "cloneUrl": "https://github.com/bpmn-io/object-refs.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "properties-panel",
+    "cloneUrl": "https://github.com/bpmn-io/properties-panel.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "refactorings",
+    "cloneUrl": "https://github.com/bpmn-io/refactorings.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "table-js",
+    "cloneUrl": "https://github.com/bpmn-io/table-js.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "tiny-svg",
+    "cloneUrl": "https://github.com/bpmn-io/tiny-svg.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "variable-outline",
+    "cloneUrl": "https://github.com/bpmn-io/variable-outline.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "variable-resolver",
+    "cloneUrl": "https://github.com/bpmn-io/variable-resolver.git"
+  },
+  {
+    "owner": "bpmn-io",
+    "repo": "vs-code-bpmn-io",
+    "cloneUrl": "https://github.com/bpmn-io/vs-code-bpmn-io.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "blog.camunda.org",
+    "cloneUrl": "https://github.com/camunda/blog.camunda.org.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "bpmn-copilot",
+    "cloneUrl": "https://github.com/camunda/bpmn-copilot.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "bpmnlint-plugin-camunda",
+    "cloneUrl": "https://github.com/camunda/bpmnlint-plugin-camunda.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "bpmnlint-plugin-camunda-compat",
+    "cloneUrl": "https://github.com/camunda/bpmnlint-plugin-camunda-compat.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-bpmn-js",
+    "cloneUrl": "https://github.com/camunda/camunda-bpmn-js.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-bpmn-js-behaviors",
+    "cloneUrl": "https://github.com/camunda/camunda-bpmn-js-behaviors.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-bpmn-moddle",
+    "cloneUrl": "https://github.com/camunda/camunda-bpmn-moddle.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-cmmn-moddle",
+    "cloneUrl": "https://github.com/camunda/camunda-cmmn-moddle.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-dmn-js",
+    "cloneUrl": "https://github.com/camunda/camunda-dmn-js.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-dmn-moddle",
+    "cloneUrl": "https://github.com/camunda/camunda-dmn-moddle.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-docs",
+    "cloneUrl": "https://github.com/camunda/camunda-docs.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-docs-manual",
+    "cloneUrl": "https://github.com/camunda/camunda-docs-manual.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-docs-modeler-screenshots",
+    "cloneUrl": "https://github.com/camunda/camunda-docs-modeler-screenshots.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-docs-static",
+    "cloneUrl": "https://github.com/camunda/camunda-docs-static.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-hub",
+    "cloneUrl": "https://github.com/camunda/camunda-hub.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-custom-linter-rules-plugin",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-custom-linter-rules-plugin.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-linter-plugin",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-linter-plugin.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-plugin-example",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-plugin-example.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-plugin-helpers",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-plugin-helpers.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-plugins",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-plugins.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-token-simulation-plugin",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-token-simulation-plugin.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda-modeler-update-server",
+    "cloneUrl": "https://github.com/camunda/camunda-modeler-update-server.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda.com-new",
+    "cloneUrl": "https://github.com/camunda/camunda.com-new.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "camunda.org-new",
+    "cloneUrl": "https://github.com/camunda/camunda.org-new.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "cloud-connect-modeler-plugin",
+    "cloneUrl": "https://github.com/camunda/cloud-connect-modeler-plugin.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "connectors",
+    "cloneUrl": "https://github.com/camunda/connectors.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "element-templates-json-schema",
+    "cloneUrl": "https://github.com/camunda/element-templates-json-schema.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "eslint-plugin-camunda-licensed",
+    "cloneUrl": "https://github.com/camunda/eslint-plugin-camunda-licensed.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "feel-copilot",
+    "cloneUrl": "https://github.com/camunda/feel-copilot.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "form-linting",
+    "cloneUrl": "https://github.com/camunda/form-linting.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "form-playground",
+    "cloneUrl": "https://github.com/camunda/form-playground.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "improved-canvas",
+    "cloneUrl": "https://github.com/camunda/improved-canvas.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "linting",
+    "cloneUrl": "https://github.com/camunda/linting.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "task-testing",
+    "cloneUrl": "https://github.com/camunda/task-testing.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "zeebe-bpmn-moddle",
+    "cloneUrl": "https://github.com/camunda/zeebe-bpmn-moddle.git"
+  },
+  {
+    "owner": "camunda",
+    "repo": "zeebe-dmn-moddle",
+    "cloneUrl": "https://github.com/camunda/zeebe-dmn-moddle.git"
+  }
+]
