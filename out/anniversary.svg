@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1480" height="824" viewBox="0 0 1480 824">
+<rect width="1480" height="824" fill="#f5f3f0" />
+<style>@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700');</style>
+<text x="200" y="40" fill="#1a1a1a" font-family="'Space Mono', monospace" font-size="24" font-weight="700">10 years x 1 developer = 10X developer</text>
+<text x="200" y="62" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11">4615 commits · 106 repos · 2016–2026</text>
+<rect x="200" y="80" width="1200" height="2" fill="#1a1a1a" />
+<line x1="200" y1="92" x2="200" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="200" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2016</text>
+<line x1="319.934282584885" y1="92" x2="319.934282584885" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="319.934282584885" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2017</text>
+<line x1="439.86856516977" y1="92" x2="439.86856516977" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="439.86856516977" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2018</text>
+<line x1="559.802847754655" y1="92" x2="559.802847754655" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="559.802847754655" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2019</text>
+<line x1="680.065717415115" y1="92" x2="680.065717415115" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="680.065717415115" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2020</text>
+<line x1="800" y1="92" x2="800" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="800" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2021</text>
+<line x1="919.9342825848851" y1="92" x2="919.9342825848851" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="919.9342825848851" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2022</text>
+<line x1="1039.86856516977" y1="92" x2="1039.86856516977" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="1039.86856516977" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2023</text>
+<line x1="1160.13143483023" y1="92" x2="1160.13143483023" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="1160.13143483023" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2024</text>
+<line x1="1280.065717415115" y1="92" x2="1280.065717415115" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="1280.065717415115" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2025</text>
+<line x1="1400" y1="92" x2="1400" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
+<text x="1400" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2026</text>
+<rect x="200" y="92" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="124" width="1200" height="1.5" fill="#1a1a1a" />
+<text x="190" y="112" text-anchor="end" fill="#1a1a1a" font-family="'Space Mono', monospace" font-size="12" font-weight="700">camunda-modeler</text>
+<text x="1408" y="112" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">814</text>
+<rect x="968.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +43178 lines</title></rect>
+<rect x="1379.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +32592 lines</title></rect>
+<rect x="313.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +24500 lines</title></rect>
+<rect x="1271.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +13133 lines</title></rect>
+<rect x="531.7" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +8358 lines</title></rect>
+<rect x="514.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +8039 lines</title></rect>
+<rect x="499.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +7878 lines</title></rect>
+<rect x="472.2" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +4295 lines</title></rect>
+<rect x="563.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +4239 lines</title></rect>
+<rect x="1260.8" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +4221 lines</title></rect>
+<rect x="1207.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +3619 lines</title></rect>
+<rect x="808.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +3576 lines</title></rect>
+<rect x="876.3" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +3376 lines</title></rect>
+<rect x="485.3" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +3278 lines</title></rect>
+<rect x="722.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +2982 lines</title></rect>
+<rect x="1030.8" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +2810 lines</title></rect>
+<rect x="1249.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +2557 lines</title></rect>
+<rect x="338.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +2321 lines</title></rect>
+<rect x="1308.8" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +2177 lines</title></rect>
+<rect x="1088.3" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1988 lines</title></rect>
+<rect x="701.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1682 lines</title></rect>
+<rect x="609.2" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1500 lines</title></rect>
+<rect x="1168.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1360 lines</title></rect>
+<rect x="649.0" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1356 lines</title></rect>
+<rect x="1053.8" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1143 lines</title></rect>
+<rect x="846.1" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1097 lines</title></rect>
+<rect x="1322.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1060 lines</title></rect>
+<rect x="222.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1054 lines</title></rect>
+<rect x="1189.8" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +1032 lines</title></rect>
+<rect x="792.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +987 lines</title></rect>
+<rect x="952.7" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +870 lines</title></rect>
+<rect x="1127.1" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +829 lines</title></rect>
+<rect x="938.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +823 lines</title></rect>
+<rect x="1106.1" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +807 lines</title></rect>
+<rect x="1336.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +719 lines</title></rect>
+<rect x="859.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +664 lines</title></rect>
+<rect x="671.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +660 lines</title></rect>
+<rect x="835.2" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +645 lines</title></rect>
+<rect x="1297.9" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +415 lines</title></rect>
+<rect x="634.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +406 lines</title></rect>
+<rect x="280.0" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +390 lines</title></rect>
+<rect x="997.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +385 lines</title></rect>
+<rect x="1368.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +378 lines</title></rect>
+<rect x="712.3" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +353 lines</title></rect>
+<rect x="917.7" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +339 lines</title></rect>
+<rect x="441.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +325 lines</title></rect>
+<rect x="1007.7" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +294 lines</title></rect>
+<rect x="1393.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +269 lines</title></rect>
+<rect x="550.1" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +268 lines</title></rect>
+<rect x="416.3" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +248 lines</title></rect>
+<rect x="574.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +229 lines</title></rect>
+<rect x="358.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +223 lines</title></rect>
+<rect x="982.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +209 lines</title></rect>
+<rect x="767.6" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +203 lines</title></rect>
+<rect x="397.5" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +182 lines</title></rect>
+<rect x="425.2" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +180 lines</title></rect>
+<rect x="685.1" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +179 lines</title></rect>
+<rect x="756.5" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +177 lines</title></rect>
+<rect x="234.6" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +165 lines</title></rect>
+<rect x="1065.0" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +158 lines</title></rect>
+<rect x="1226.6" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +141 lines</title></rect>
+<rect x="451.5" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +110 lines</title></rect>
+<rect x="928.6" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +97 lines</title></rect>
+<rect x="619.1" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +88 lines</title></rect>
+<rect x="748.2" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +86 lines</title></rect>
+<rect x="737.7" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +83 lines</title></rect>
+<rect x="891.8" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +77 lines</title></rect>
+<rect x="288.2" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +51 lines</title></rect>
+<rect x="1285.8" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +36 lines</title></rect>
+<rect x="1346.2" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +36 lines</title></rect>
+<rect x="460.7" y="104" width="8" height="8" fill="#30a14e"><title>camunda/camunda-modeler: +33 lines</title></rect>
+<rect x="1159.5" y="104" width="8" height="8" fill="#40c463"><title>camunda/camunda-modeler: +16 lines</title></rect>
+<rect x="1042.0" y="104" width="8" height="8" fill="#40c463"><title>camunda/camunda-modeler: +7 lines</title></rect>
+<rect x="326.7" y="104" width="8" height="8" fill="#40c463"><title>camunda/camunda-modeler: +6 lines</title></rect>
+<rect x="379.8" y="104" width="8" height="8" fill="#9be9a8"><title>camunda/camunda-modeler: +4 lines</title></rect>
+<rect x="660.2" y="104" width="8" height="8" fill="#9be9a8"><title>camunda/camunda-modeler: +4 lines</title></rect>
+<rect x="200" y="156" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="144" text-anchor="end" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js</text>
+<text x="1408" y="144" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">390</text>
+<rect x="598.0" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +7644 lines</title></rect>
+<rect x="1163.1" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +5056 lines</title></rect>
+<rect x="204.1" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +3539 lines</title></rect>
+<rect x="553.7" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +3284 lines</title></rect>
+<rect x="1104.7" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +3192 lines</title></rect>
+<rect x="573.2" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +2455 lines</title></rect>
+<rect x="245.8" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +1877 lines</title></rect>
+<rect x="1067.6" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +1803 lines</title></rect>
+<rect x="619.4" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +1473 lines</title></rect>
+<rect x="701.5" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +1315 lines</title></rect>
+<rect x="1036.6" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +1254 lines</title></rect>
+<rect x="344.6" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +1212 lines</title></rect>
+<rect x="1027.5" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +923 lines</title></rect>
+<rect x="826.1" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +920 lines</title></rect>
+<rect x="446.6" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +876 lines</title></rect>
+<rect x="356.8" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +806 lines</title></rect>
+<rect x="666.4" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +793 lines</title></rect>
+<rect x="1198.5" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +747 lines</title></rect>
+<rect x="237.2" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +594 lines</title></rect>
+<rect x="275.4" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +588 lines</title></rect>
+<rect x="980.5" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +571 lines</title></rect>
+<rect x="513.6" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +530 lines</title></rect>
+<rect x="503.8" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +527 lines</title></rect>
+<rect x="466.9" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +516 lines</title></rect>
+<rect x="1077.7" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +507 lines</title></rect>
+<rect x="632.6" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +478 lines</title></rect>
+<rect x="610.2" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +423 lines</title></rect>
+<rect x="300.7" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +357 lines</title></rect>
+<rect x="802.7" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +334 lines</title></rect>
+<rect x="1284.1" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +234 lines</title></rect>
+<rect x="1177.0" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +232 lines</title></rect>
+<rect x="896.4" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +220 lines</title></rect>
+<rect x="255.0" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +215 lines</title></rect>
+<rect x="1113.3" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +208 lines</title></rect>
+<rect x="218.4" y="136" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js: +191 lines</title></rect>
+<rect x="581.2" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +189 lines</title></rect>
+<rect x="319.1" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +178 lines</title></rect>
+<rect x="652.2" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +120 lines</title></rect>
+<rect x="676.9" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +90 lines</title></rect>
+<rect x="959.2" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +88 lines</title></rect>
+<rect x="1046.9" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +73 lines</title></rect>
+<rect x="308.8" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +70 lines</title></rect>
+<rect x="998.3" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +64 lines</title></rect>
+<rect x="1127.7" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +62 lines</title></rect>
+<rect x="420.9" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +61 lines</title></rect>
+<rect x="788.6" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +61 lines</title></rect>
+<rect x="457.7" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +57 lines</title></rect>
+<rect x="1210.2" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +53 lines</title></rect>
+<rect x="1226.3" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +50 lines</title></rect>
+<rect x="328.5" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +41 lines</title></rect>
+<rect x="773.1" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +39 lines</title></rect>
+<rect x="375.5" y="136" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js: +33 lines</title></rect>
+<rect x="931.2" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +27 lines</title></rect>
+<rect x="289.2" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +23 lines</title></rect>
+<rect x="1322.2" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +17 lines</title></rect>
+<rect x="432.7" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +16 lines</title></rect>
+<rect x="384.1" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +8 lines</title></rect>
+<rect x="710.8" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +8 lines</title></rect>
+<rect x="1254.2" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +6 lines</title></rect>
+<rect x="1343.9" y="136" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js: +6 lines</title></rect>
+<rect x="366.0" y="136" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js: +4 lines</title></rect>
+<rect x="685.1" y="136" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js: +4 lines</title></rect>
+<rect x="266.2" y="136" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js: +3 lines</title></rect>
+<rect x="398.3" y="136" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js: +2 lines</title></rect>
+<rect x="200" y="156" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="188" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="176" text-anchor="end" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11" font-weight="400">diagram-js</text>
+<text x="1408" y="176" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">363</text>
+<rect x="566.2" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +7575 lines</title></rect>
+<rect x="1216.8" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +6417 lines</title></rect>
+<rect x="1024.2" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +4778 lines</title></rect>
+<rect x="204.1" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +3539 lines</title></rect>
+<rect x="1036.6" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +2648 lines</title></rect>
+<rect x="598.0" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +2098 lines</title></rect>
+<rect x="245.8" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +1877 lines</title></rect>
+<rect x="1132.3" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +1790 lines</title></rect>
+<rect x="652.3" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +953 lines</title></rect>
+<rect x="740.3" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +848 lines</title></rect>
+<rect x="630.5" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +816 lines</title></rect>
+<rect x="666.4" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +810 lines</title></rect>
+<rect x="356.8" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +806 lines</title></rect>
+<rect x="1095.5" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +730 lines</title></rect>
+<rect x="466.9" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +628 lines</title></rect>
+<rect x="237.2" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +594 lines</title></rect>
+<rect x="504.1" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +583 lines</title></rect>
+<rect x="1163.8" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +582 lines</title></rect>
+<rect x="1191.8" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +582 lines</title></rect>
+<rect x="826.2" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +513 lines</title></rect>
+<rect x="1205.3" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +447 lines</title></rect>
+<rect x="1005.8" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +397 lines</title></rect>
+<rect x="678.2" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +385 lines</title></rect>
+<rect x="300.7" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +357 lines</title></rect>
+<rect x="774.6" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +354 lines</title></rect>
+<rect x="580.3" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +352 lines</title></rect>
+<rect x="1175.0" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +350 lines</title></rect>
+<rect x="446.6" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +295 lines</title></rect>
+<rect x="715.7" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +291 lines</title></rect>
+<rect x="1046.9" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +280 lines</title></rect>
+<rect x="1368.3" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +247 lines</title></rect>
+<rect x="255.0" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +215 lines</title></rect>
+<rect x="802.7" y="168" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js: +213 lines</title></rect>
+<rect x="1108.0" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +186 lines</title></rect>
+<rect x="638.8" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +179 lines</title></rect>
+<rect x="607.9" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +135 lines</title></rect>
+<rect x="1143.2" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +115 lines</title></rect>
+<rect x="366.0" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +109 lines</title></rect>
+<rect x="952.9" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +106 lines</title></rect>
+<rect x="218.4" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +72 lines</title></rect>
+<rect x="848.4" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +65 lines</title></rect>
+<rect x="312.2" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +63 lines</title></rect>
+<rect x="619.1" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +62 lines</title></rect>
+<rect x="326.6" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +50 lines</title></rect>
+<rect x="786.1" y="168" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js: +47 lines</title></rect>
+<rect x="931.6" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +32 lines</title></rect>
+<rect x="894.4" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +22 lines</title></rect>
+<rect x="1079.1" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +20 lines</title></rect>
+<rect x="1352.4" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +20 lines</title></rect>
+<rect x="984.1" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +10 lines</title></rect>
+<rect x="1069.9" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +6 lines</title></rect>
+<rect x="457.7" y="168" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js: +5 lines</title></rect>
+<rect x="266.2" y="168" width="8" height="8" fill="#9be9a8"><title>bpmn-io/diagram-js: +3 lines</title></rect>
+<rect x="398.3" y="168" width="8" height="8" fill="#9be9a8"><title>bpmn-io/diagram-js: +2 lines</title></rect>
+<rect x="860.5" y="168" width="8" height="8" fill="#9be9a8"><title>bpmn-io/diagram-js: +1 lines</title></rect>
+<rect x="200" y="220" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="208" text-anchor="end" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmnlint-plugin-camunda-c…</text>
+<text x="1408" y="208" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">321</text>
+<rect x="929.8" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +13772 lines</title></rect>
+<rect x="913.5" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +6862 lines</title></rect>
+<rect x="1053.1" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +5521 lines</title></rect>
+<rect x="986.1" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +5388 lines</title></rect>
+<rect x="968.7" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +2694 lines</title></rect>
+<rect x="878.6" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +1612 lines</title></rect>
+<rect x="1044.3" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +1267 lines</title></rect>
+<rect x="1173.4" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +872 lines</title></rect>
+<rect x="1017.0" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +799 lines</title></rect>
+<rect x="894.1" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +618 lines</title></rect>
+<rect x="1204.6" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +532 lines</title></rect>
+<rect x="1083.3" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +490 lines</title></rect>
+<rect x="1029.8" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +486 lines</title></rect>
+<rect x="1113.2" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +465 lines</title></rect>
+<rect x="1064.6" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +453 lines</title></rect>
+<rect x="938.7" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +428 lines</title></rect>
+<rect x="1143.1" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +318 lines</title></rect>
+<rect x="1196.4" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +316 lines</title></rect>
+<rect x="1073.9" y="200" width="8" height="8" fill="#216e39"><title>camunda/bpmnlint-plugin-camunda-compat: +241 lines</title></rect>
+<rect x="948.0" y="200" width="8" height="8" fill="#30a14e"><title>camunda/bpmnlint-plugin-camunda-compat: +186 lines</title></rect>
+<rect x="1094.9" y="200" width="8" height="8" fill="#30a14e"><title>camunda/bpmnlint-plugin-camunda-compat: +130 lines</title></rect>
+<rect x="1223.6" y="200" width="8" height="8" fill="#30a14e"><title>camunda/bpmnlint-plugin-camunda-compat: +106 lines</title></rect>
+<rect x="1132.0" y="200" width="8" height="8" fill="#30a14e"><title>camunda/bpmnlint-plugin-camunda-compat: +38 lines</title></rect>
+<rect x="1320.9" y="200" width="8" height="8" fill="#30a14e"><title>camunda/bpmnlint-plugin-camunda-compat: +37 lines</title></rect>
+<rect x="1269.0" y="200" width="8" height="8" fill="#40c463"><title>camunda/bpmnlint-plugin-camunda-compat: +30 lines</title></rect>
+<rect x="957.2" y="200" width="8" height="8" fill="#40c463"><title>camunda/bpmnlint-plugin-camunda-compat: +26 lines</title></rect>
+<rect x="905.3" y="200" width="8" height="8" fill="#40c463"><title>camunda/bpmnlint-plugin-camunda-compat: +21 lines</title></rect>
+<rect x="1302.2" y="200" width="8" height="8" fill="#40c463"><title>camunda/bpmnlint-plugin-camunda-compat: +18 lines</title></rect>
+<rect x="1343.9" y="200" width="8" height="8" fill="#40c463"><title>camunda/bpmnlint-plugin-camunda-compat: +5 lines</title></rect>
+<rect x="200" y="220" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="252" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="240" text-anchor="end" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11" font-weight="400">linting</text>
+<text x="1408" y="240" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">247</text>
+<rect x="938.4" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +6960 lines</title></rect>
+<rect x="970.0" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +5866 lines</title></rect>
+<rect x="989.0" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +4396 lines</title></rect>
+<rect x="1032.1" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +1796 lines</title></rect>
+<rect x="1058.3" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +1065 lines</title></rect>
+<rect x="1012.0" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +862 lines</title></rect>
+<rect x="1221.3" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +735 lines</title></rect>
+<rect x="1108.3" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +706 lines</title></rect>
+<rect x="1173.7" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +416 lines</title></rect>
+<rect x="1204.6" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +396 lines</title></rect>
+<rect x="947.0" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +317 lines</title></rect>
+<rect x="1320.9" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +294 lines</title></rect>
+<rect x="961.7" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +287 lines</title></rect>
+<rect x="1073.4" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +260 lines</title></rect>
+<rect x="1085.3" y="232" width="8" height="8" fill="#216e39"><title>camunda/linting: +207 lines</title></rect>
+<rect x="1196.4" y="232" width="8" height="8" fill="#30a14e"><title>camunda/linting: +151 lines</title></rect>
+<rect x="1164.6" y="232" width="8" height="8" fill="#30a14e"><title>camunda/linting: +118 lines</title></rect>
+<rect x="1046.2" y="232" width="8" height="8" fill="#30a14e"><title>camunda/linting: +91 lines</title></rect>
+<rect x="1302.2" y="232" width="8" height="8" fill="#30a14e"><title>camunda/linting: +41 lines</title></rect>
+<rect x="1094.1" y="232" width="8" height="8" fill="#40c463"><title>camunda/linting: +16 lines</title></rect>
+<rect x="979.8" y="232" width="8" height="8" fill="#9be9a8"><title>camunda/linting: +4 lines</title></rect>
+<rect x="200" y="284" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="272" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-properties-panel</text>
+<text x="1408" y="272" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">245</text>
+<rect x="1123.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +90844 lines</title></rect>
+<rect x="296.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +20968 lines</title></rect>
+<rect x="860.2" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +10555 lines</title></rect>
+<rect x="438.7" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +5132 lines</title></rect>
+<rect x="757.4" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +3733 lines</title></rect>
+<rect x="512.9" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +3477 lines</title></rect>
+<rect x="531.6" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +3032 lines</title></rect>
+<rect x="889.3" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +1561 lines</title></rect>
+<rect x="943.7" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +1248 lines</title></rect>
+<rect x="849.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +1225 lines</title></rect>
+<rect x="966.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +1124 lines</title></rect>
+<rect x="914.8" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +1121 lines</title></rect>
+<rect x="727.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +871 lines</title></rect>
+<rect x="904.0" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +835 lines</title></rect>
+<rect x="737.6" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +814 lines</title></rect>
+<rect x="1342.9" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +767 lines</title></rect>
+<rect x="1029.8" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +691 lines</title></rect>
+<rect x="1091.9" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +586 lines</title></rect>
+<rect x="1203.6" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +549 lines</title></rect>
+<rect x="1302.2" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +504 lines</title></rect>
+<rect x="1189.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +492 lines</title></rect>
+<rect x="1322.6" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +392 lines</title></rect>
+<rect x="1044.5" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +375 lines</title></rect>
+<rect x="451.5" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +360 lines</title></rect>
+<rect x="340.1" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +251 lines</title></rect>
+<rect x="1226.3" y="264" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-properties-panel: +240 lines</title></rect>
+<rect x="768.5" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +159 lines</title></rect>
+<rect x="711.4" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +148 lines</title></rect>
+<rect x="1253.5" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +142 lines</title></rect>
+<rect x="329.2" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +136 lines</title></rect>
+<rect x="1108.0" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +116 lines</title></rect>
+<rect x="308.9" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +94 lines</title></rect>
+<rect x="234.3" y="264" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-properties-panel: +91 lines</title></rect>
+<rect x="1352.1" y="264" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-properties-panel: +28 lines</title></rect>
+<rect x="990.6" y="264" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-properties-panel: +16 lines</title></rect>
+<rect x="1018.3" y="264" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-properties-panel: +12 lines</title></rect>
+<rect x="366.0" y="264" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-properties-panel: +8 lines</title></rect>
+<rect x="812.3" y="264" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-properties-panel: +7 lines</title></rect>
+<rect x="317.7" y="264" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-properties-panel: +6 lines</title></rect>
+<rect x="485.3" y="264" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-properties-panel: +4 lines</title></rect>
+<rect x="923.0" y="264" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-properties-panel: +4 lines</title></rect>
+<rect x="568.8" y="264" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-properties-panel: +2 lines</title></rect>
+<rect x="200" y="284" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="316" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="304" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">dmn-js</text>
+<text x="1408" y="304" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">238</text>
+<rect x="393.3" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +46329 lines</title></rect>
+<rect x="417.9" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +17016 lines</title></rect>
+<rect x="710.0" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +2013 lines</title></rect>
+<rect x="749.9" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +2013 lines</title></rect>
+<rect x="626.3" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +1661 lines</title></rect>
+<rect x="634.5" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +1615 lines</title></rect>
+<rect x="427.9" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +1382 lines</title></rect>
+<rect x="409.4" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +1154 lines</title></rect>
+<rect x="669.9" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +743 lines</title></rect>
+<rect x="772.5" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +611 lines</title></rect>
+<rect x="1113.3" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +254 lines</title></rect>
+<rect x="1254.2" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +244 lines</title></rect>
+<rect x="861.9" y="296" width="8" height="8" fill="#216e39"><title>bpmn-io/dmn-js: +191 lines</title></rect>
+<rect x="841.5" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +168 lines</title></rect>
+<rect x="697.6" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +160 lines</title></rect>
+<rect x="1189.5" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +148 lines</title></rect>
+<rect x="358.8" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +147 lines</title></rect>
+<rect x="1168.5" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +80 lines</title></rect>
+<rect x="684.8" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +62 lines</title></rect>
+<rect x="469.9" y="296" width="8" height="8" fill="#30a14e"><title>bpmn-io/dmn-js: +51 lines</title></rect>
+<rect x="931.2" y="296" width="8" height="8" fill="#40c463"><title>bpmn-io/dmn-js: +30 lines</title></rect>
+<rect x="513.0" y="296" width="8" height="8" fill="#40c463"><title>bpmn-io/dmn-js: +17 lines</title></rect>
+<rect x="384.1" y="296" width="8" height="8" fill="#40c463"><title>bpmn-io/dmn-js: +9 lines</title></rect>
+<rect x="444.3" y="296" width="8" height="8" fill="#9be9a8"><title>bpmn-io/dmn-js: +2 lines</title></rect>
+<rect x="200" y="348" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="336" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">form-js</text>
+<text x="1408" y="336" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">161</text>
+<rect x="784.1" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +13677 lines</title></rect>
+<rect x="816.8" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +4888 lines</title></rect>
+<rect x="807.0" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +3399 lines</title></rect>
+<rect x="836.9" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +1127 lines</title></rect>
+<rect x="889.6" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +565 lines</title></rect>
+<rect x="846.7" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +523 lines</title></rect>
+<rect x="828.7" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +332 lines</title></rect>
+<rect x="797.9" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +269 lines</title></rect>
+<rect x="902.0" y="328" width="8" height="8" fill="#216e39"><title>bpmn-io/form-js: +206 lines</title></rect>
+<rect x="860.9" y="328" width="8" height="8" fill="#30a14e"><title>bpmn-io/form-js: +180 lines</title></rect>
+<rect x="1203.6" y="328" width="8" height="8" fill="#30a14e"><title>bpmn-io/form-js: +126 lines</title></rect>
+<rect x="982.4" y="328" width="8" height="8" fill="#30a14e"><title>bpmn-io/form-js: +64 lines</title></rect>
+<rect x="1094.2" y="328" width="8" height="8" fill="#9be9a8"><title>bpmn-io/form-js: +2 lines</title></rect>
+<rect x="922.7" y="328" width="8" height="8" fill="#9be9a8"><title>bpmn-io/form-js: +1 lines</title></rect>
+<rect x="200" y="348" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="380" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="368" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">task-testing</text>
+<text x="1408" y="368" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">129</text>
+<rect x="1388.6" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +46033 lines</title></rect>
+<rect x="1375.7" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +43162 lines</title></rect>
+<rect x="1320.4" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +1878 lines</title></rect>
+<rect x="1358.7" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +362 lines</title></rect>
+<rect x="1341.3" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +286 lines</title></rect>
+<rect x="1331.1" y="360" width="8" height="8" fill="#30a14e"><title>camunda/task-testing: +52 lines</title></rect>
+<rect x="200" y="412" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="400" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-bpmn-js</text>
+<text x="1408" y="400" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">122</text>
+<rect x="922.0" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +10488 lines</title></rect>
+<rect x="956.8" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +4869 lines</title></rect>
+<rect x="853.3" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +2014 lines</title></rect>
+<rect x="1027.9" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +1110 lines</title></rect>
+<rect x="1168.1" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +797 lines</title></rect>
+<rect x="899.4" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +665 lines</title></rect>
+<rect x="1370.9" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +596 lines</title></rect>
+<rect x="1321.9" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +537 lines</title></rect>
+<rect x="1115.5" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +399 lines</title></rect>
+<rect x="1043.6" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +317 lines</title></rect>
+<rect x="1254.2" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +240 lines</title></rect>
+<rect x="1177.8" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +145 lines</title></rect>
+<rect x="968.4" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +96 lines</title></rect>
+<rect x="1195.4" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +52 lines</title></rect>
+<rect x="913.2" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +37 lines</title></rect>
+<rect x="1226.3" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +36 lines</title></rect>
+<rect x="1127.7" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +29 lines</title></rect>
+<rect x="982.2" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +28 lines</title></rect>
+<rect x="991.0" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +24 lines</title></rect>
+<rect x="1204.9" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +24 lines</title></rect>
+<rect x="1011.4" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +21 lines</title></rect>
+<rect x="1055.7" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +16 lines</title></rect>
+<rect x="1149.4" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +16 lines</title></rect>
+<rect x="1088.2" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +6 lines</title></rect>
+<rect x="200" y="412" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="444" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="432" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">improved-canvas</text>
+<text x="1408" y="432" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">120</text>
+<rect x="1166.8" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +113543 lines</title></rect>
+<rect x="1148.1" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +32540 lines</title></rect>
+<rect x="1133.3" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +397 lines</title></rect>
+<rect x="1200.7" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +367 lines</title></rect>
+<rect x="1214.1" y="424" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +180 lines</title></rect>
+<rect x="1316.3" y="424" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +111 lines</title></rect>
+<rect x="1175.3" y="424" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +72 lines</title></rect>
+<rect x="200" y="476" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="464" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">table-js</text>
+<text x="1408" y="464" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">94</text>
+<rect x="384.1" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +15252 lines</title></rect>
+<rect x="1220.7" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +2811 lines</title></rect>
+<rect x="684.8" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +1888 lines</title></rect>
+<rect x="427.9" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +1489 lines</title></rect>
+<rect x="394.0" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +572 lines</title></rect>
+<rect x="748.2" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +135 lines</title></rect>
+<rect x="359.1" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +131 lines</title></rect>
+<rect x="475.5" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +119 lines</title></rect>
+<rect x="841.3" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +57 lines</title></rect>
+<rect x="416.6" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +56 lines</title></rect>
+<rect x="443.9" y="456" width="8" height="8" fill="#40c463"><title>bpmn-io/table-js: +26 lines</title></rect>
+<rect x="407.8" y="456" width="8" height="8" fill="#40c463"><title>bpmn-io/table-js: +10 lines</title></rect>
+<rect x="632.9" y="456" width="8" height="8" fill="#9be9a8"><title>bpmn-io/table-js: +4 lines</title></rect>
+<rect x="200" y="476" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="508" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="496" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-element-templates</text>
+<text x="1408" y="496" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">89</text>
+<rect x="860.2" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +10555 lines</title></rect>
+<rect x="512.9" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +3245 lines</title></rect>
+<rect x="531.6" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +3030 lines</title></rect>
+<rect x="966.1" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +1124 lines</title></rect>
+<rect x="1356.8" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +858 lines</title></rect>
+<rect x="1322.2" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +670 lines</title></rect>
+<rect x="888.9" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +285 lines</title></rect>
+<rect x="1150.4" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +277 lines</title></rect>
+<rect x="1197.7" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +241 lines</title></rect>
+<rect x="903.4" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +76 lines</title></rect>
+<rect x="948.3" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +50 lines</title></rect>
+<rect x="1236.8" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +34 lines</title></rect>
+<rect x="1253.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +32 lines</title></rect>
+<rect x="1098.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +26 lines</title></rect>
+<rect x="914.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +16 lines</title></rect>
+<rect x="990.6" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +16 lines</title></rect>
+<rect x="1186.5" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +14 lines</title></rect>
+<rect x="366.0" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
+<rect x="753.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
+<rect x="848.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
+<rect x="1018.3" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
+<rect x="1033.0" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
+<rect x="1044.9" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
+<rect x="308.9" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="439.6" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="485.3" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="735.4" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="923.0" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="1164.5" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +2 lines</title></rect>
+<rect x="200" y="540" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="528" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-token-simulation</text>
+<text x="1408" y="528" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">80</text>
+<rect x="479.1" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +8235 lines</title></rect>
+<rect x="501.4" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +7511 lines</title></rect>
+<rect x="487.6" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +4506 lines</title></rect>
+<rect x="516.9" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +4218 lines</title></rect>
+<rect x="364.2" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +3991 lines</title></rect>
+<rect x="1375.5" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +664 lines</title></rect>
+<rect x="1201.3" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +534 lines</title></rect>
+<rect x="1016.4" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +414 lines</title></rect>
+<rect x="807.7" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +316 lines</title></rect>
+<rect x="705.5" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +214 lines</title></rect>
+<rect x="945.9" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +156 lines</title></rect>
+<rect x="1143.5" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +83 lines</title></rect>
+<rect x="373.0" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +54 lines</title></rect>
+<rect x="620.6" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-token-simulation: +4 lines</title></rect>
+<rect x="200" y="540" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="572" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="560" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">properties-panel</text>
+<text x="1408" y="560" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">66</text>
+<rect x="1123.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +20235 lines</title></rect>
+<rect x="1288.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +1392 lines</title></rect>
+<rect x="911.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +615 lines</title></rect>
+<rect x="945.8" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +389 lines</title></rect>
+<rect x="1253.5" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +337 lines</title></rect>
+<rect x="1067.2" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +287 lines</title></rect>
+<rect x="971.3" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +162 lines</title></rect>
+<rect x="1215.1" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +149 lines</title></rect>
+<rect x="854.9" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +144 lines</title></rect>
+<rect x="1199.0" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +26 lines</title></rect>
+<rect x="867.1" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
+<rect x="1225.9" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
+<rect x="1319.6" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
+<rect x="200" y="604" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="592" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-bpmn-js-behaviors</text>
+<text x="1408" y="592" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">66</text>
+<rect x="922.6" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +10395 lines</title></rect>
+<rect x="963.1" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +2115 lines</title></rect>
+<rect x="1127.1" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +380 lines</title></rect>
+<rect x="1029.8" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +355 lines</title></rect>
+<rect x="1094.2" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +333 lines</title></rect>
+<rect x="1226.6" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +295 lines</title></rect>
+<rect x="1106.4" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +271 lines</title></rect>
+<rect x="1053.5" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +268 lines</title></rect>
+<rect x="1203.6" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +208 lines</title></rect>
+<rect x="1044.9" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +194 lines</title></rect>
+<rect x="989.7" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +138 lines</title></rect>
+<rect x="1193.8" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +128 lines</title></rect>
+<rect x="1306.5" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +97 lines</title></rect>
+<rect x="1322.2" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +76 lines</title></rect>
+<rect x="1236.8" y="584" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js-behaviors: +24 lines</title></rect>
+<rect x="875.7" y="584" width="8" height="8" fill="#9be9a8"><title>camunda/camunda-bpmn-js-behaviors: +1 lines</title></rect>
+<rect x="200" y="604" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="636" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="624" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">diagram-js-minimap</text>
+<text x="1408" y="624" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">60</text>
+<rect x="324.6" y="616" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +1202 lines</title></rect>
+<rect x="615.8" y="616" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +286 lines</title></rect>
+<rect x="457.4" y="616" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +233 lines</title></rect>
+<rect x="468.5" y="616" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +112 lines</title></rect>
+<rect x="566.1" y="616" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +53 lines</title></rect>
+<rect x="344.4" y="616" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +37 lines</title></rect>
+<rect x="333.5" y="616" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js-minimap: +20 lines</title></rect>
+<rect x="1012.0" y="616" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js-minimap: +15 lines</title></rect>
+<rect x="395.3" y="616" width="8" height="8" fill="#9be9a8"><title>bpmn-io/diagram-js-minimap: +2 lines</title></rect>
+<rect x="200" y="668" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="656" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">refactorings</text>
+<text x="1408" y="656" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">59</text>
+<rect x="1190.8" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/refactorings: +109747 lines</title></rect>
+<rect x="1157.3" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/refactorings: +2956 lines</title></rect>
+<rect x="1257.9" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +18 lines</title></rect>
+<rect x="1200.1" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +17 lines</title></rect>
+<rect x="1106.6" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +13 lines</title></rect>
+<rect x="1166.8" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +6 lines</title></rect>
+<rect x="200" y="668" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
+<rect x="200" y="700" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="688" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-copilot</text>
+<text x="1408" y="688" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">56</text>
+<rect x="1231.3" y="680" width="8" height="8" fill="#216e39"><title>camunda/bpmn-copilot: +21836 lines</title></rect>
+<rect x="1253.7" y="680" width="8" height="8" fill="#216e39"><title>camunda/bpmn-copilot: +1703 lines</title></rect>
+<rect x="1218.8" y="680" width="8" height="8" fill="#30a14e"><title>camunda/bpmn-copilot: +57 lines</title></rect>
+<rect x="200" y="732" width="1200" height="0.5" fill="#d0ccc6" />
+<text x="190" y="720" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-forms</text>
+<text x="1408" y="720" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">55</text>
+<rect x="780.4" y="712" width="8" height="8" fill="#216e39"><title>bpmn-io/camunda-forms: +43704 lines</title></rect>
+<rect x="769.9" y="712" width="8" height="8" fill="#216e39"><title>bpmn-io/camunda-forms: +6736 lines</title></rect>
+<text x="190" y="752" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">+86 more</text>
+<text x="1408" y="752" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">840</text>
+<rect x="208.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="208.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="210.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="237.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="238.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="238.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="258.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="259.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="265.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="270.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="270.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="271.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="273.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="273.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="273.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="274.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="274.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="274.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="274.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="274.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="275.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="275.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="275.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="277.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="279.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="281.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="310.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="310.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="310.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="310.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="310.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="311.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="311.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="312.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="315.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="316.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="318.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="318.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="318.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="318.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="319.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="319.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="319.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="321.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="321.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="327.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="330.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="331.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="331.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="340.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="340.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="341.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="343.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="343.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="343.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="343.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="344.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="344.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="347.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="349.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="353.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="359.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="359.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="360.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="362.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="362.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="365.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="365.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="365.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="365.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="366.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="366.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="368.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="369.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="369.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="369.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="370.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="375.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="376.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="376.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="388.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="388.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="399.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="399.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="402.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="402.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="402.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="411.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="417.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="418.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="418.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="418.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="420.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="420.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="420.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="420.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="429.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="429.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="429.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="430.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="438.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="438.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="439.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="443.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="443.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="443.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="445.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="447.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="447.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="447.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="447.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="447.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="448.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="448.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="448.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="457.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="457.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="459.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="461.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="462.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="462.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="464.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="464.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="464.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="464.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="464.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="464.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="466.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="466.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="466.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="474.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="475.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="475.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="475.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="475.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="477.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="478.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="479.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="479.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="480.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="484.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="484.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="485.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="489.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="489.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="490.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="490.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="490.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="490.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="490.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="491.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="491.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="491.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="491.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="492.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="492.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="494.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="505.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="508.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="508.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="508.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="509.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="513.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="516.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="516.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="516.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="517.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="518.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="518.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="518.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="518.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="519.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="519.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="531.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="531.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="535.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="557.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="558.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="559.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="559.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="559.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="559.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="560.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="560.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="561.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="562.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="562.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="563.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="572.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="573.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="574.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="576.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="582.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="582.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="599.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="599.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="602.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="607.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="607.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="607.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="607.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="607.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="608.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="608.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="609.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="609.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="609.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="617.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="617.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="632.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="632.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="636.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="636.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="636.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="636.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="636.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="636.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="638.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="639.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="639.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="639.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="639.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="642.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="652.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="652.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="654.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="654.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="654.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="654.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="654.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="655.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="655.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="657.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="659.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="660.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="661.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="661.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="661.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="662.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="663.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="663.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="664.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="666.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="666.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="666.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="666.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="666.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="667.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="667.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="668.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="676.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="676.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="676.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="687.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="687.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="687.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="689.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="689.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="689.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="689.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="698.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="700.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="700.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="700.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="700.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="701.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="701.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="701.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="701.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="701.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="705.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="705.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="705.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="705.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="708.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="716.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="716.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="717.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="719.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="719.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="723.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="726.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="737.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="737.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="739.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="739.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="739.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="739.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="744.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="744.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="744.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="746.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="747.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="754.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="754.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="754.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="756.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="757.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="757.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="764.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="772.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="772.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="772.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="776.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="777.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="777.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="790.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="790.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="790.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="795.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="795.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="798.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="799.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="799.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="804.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="810.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="813.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="813.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="813.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="813.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="816.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="816.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="818.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="825.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="838.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="840.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="840.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="851.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="851.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="852.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="852.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="852.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="853.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="853.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="853.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="854.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="855.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="855.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="855.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="858.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="858.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="858.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="858.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="859.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="862.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="864.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="864.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="864.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="868.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="868.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="868.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="868.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="869.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="871.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="871.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="871.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="871.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="871.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="901.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="902.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="903.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="903.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="903.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="909.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="911.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="911.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="911.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="912.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="912.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="914.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="915.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="915.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="922.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="922.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="924.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="924.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="928.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="928.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="933.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="933.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="933.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="933.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="933.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="934.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="935.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="935.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="936.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="936.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="943.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="943.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="943.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="943.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="943.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="950.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="956.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="956.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="962.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="962.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="963.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="967.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="967.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="967.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="967.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="968.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="968.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="968.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="968.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="968.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="969.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="971.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="976.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="977.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="977.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="977.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="979.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="979.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="984.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="986.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="986.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="991.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="993.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="993.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="994.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="995.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="995.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="995.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="995.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="997.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="997.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1011.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1013.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1020.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1023.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1023.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1029.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1033.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1033.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1033.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1039.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1039.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1039.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1044.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1045.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1045.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1046.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1048.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1048.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1059.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1059.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1059.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1068.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1069.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1069.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1069.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1069.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1071.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1076.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1077.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1079.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1079.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1084.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1084.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1093.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1093.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1093.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1094.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1096.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1096.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1097.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1115.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1117.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1117.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1117.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1120.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1120.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1120.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1121.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1124.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1132.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1133.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1133.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1136.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1152.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1153.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1153.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1153.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1153.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1156.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1156.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1165.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1167.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1168.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1172.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1172.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1172.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1172.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1172.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1172.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1174.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1174.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1174.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1175.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1175.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1175.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1177.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1181.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1184.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1192.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1192.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1192.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1192.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1192.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1193.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1193.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1193.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1193.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1193.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1195.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1195.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1196.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1197.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1197.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1197.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1200.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1204.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1204.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1206.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1206.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1207.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1207.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1207.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1207.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1207.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1207.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1208.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1211.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1211.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1211.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1211.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1212.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1213.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1213.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1213.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1215.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1216.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1216.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1216.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1217.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1217.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1217.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1218.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1218.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1218.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1218.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1218.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1218.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1219.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1219.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1219.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1221.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1223.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1223.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1223.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1223.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1223.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1226.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1229.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1230.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1230.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1237.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1238.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1238.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1244.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1251.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1251.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1251.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1251.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1256.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1256.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1257.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1258.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1259.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1262.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1262.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1263.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1263.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1263.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1264.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1264.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1283.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1291.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1312.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1312.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1314.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1315.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1315.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1320.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1321.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1321.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1322.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1323.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1325.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1328.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1332.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1332.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1332.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1333.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1333.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1333.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1333.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1333.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1333.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1335.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1335.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1335.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1342.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1350.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1350.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1350.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1350.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1360.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1360.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1360.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1372.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1377.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1377.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1377.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1377.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1377.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1378.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1378.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1378.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1378.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1381.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1381.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1381.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1382.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1382.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1383.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1384.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1384.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1389.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1390.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1390.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="200" y="764" width="1200" height="1" fill="#1a1a1a" />
+</svg>
