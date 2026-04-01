@@ -9,8 +9,8 @@
     "svg": "node src/svg.js",
     "markdown": "node src/markdown.js",
     "slack": "node src/slack.js",
-    "generate": "node src/extract.js && node src/svg.js && node src/markdown.js && node src/slack.js",
-    "all": "node src/discover-repos.js && node src/clone-repos.js && node src/extract.js && node src/svg.js && node src/markdown.js && node src/slack.js",
+    "generate": "node src/svg.js && node src/markdown.js && node src/slack.js",
+    "all": "node src/discover-repos.js && node src/clone-repos.js && npm run generate",
     "build": "vite build",
     "dev": "vite"
   },
@@ -20,7 +20,8 @@
   "description": "10-year anniversary: git history visualization",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "p-limit": "^6.2.0"
+    "p-limit": "^6.2.0",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "vite": "^6.3.0"

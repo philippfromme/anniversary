@@ -11,6 +11,7 @@
 
 import { readFile, writeFile, mkdir } from "fs/promises";
 import { resolve } from "path";
+import sharp from "sharp";
 import { COMMITS_JSON, OUT_DIR, SINCE, UNTIL } from "./config.js";
 
 // --- Palette (matches web player) ---
@@ -235,7 +236,15 @@ async function main() {
   const outPath = resolve(OUT_DIR, "anniversary.svg");
   await writeFile(outPath, svg);
 
+  // PNG export (2x for crisp Slack preview)
+  const pngPath = resolve(OUT_DIR, "anniversary.png");
+  await sharp(Buffer.from(svg))
+    .resize({ width: totalWidth * 2 })
+    .png()
+    .toFile(pngPath);
+
   console.log(`SVG written to ${outPath}`);
+  console.log(`PNG written to ${pngPath}`);
   console.log(`  Dimensions: ${totalWidth} × ${totalHeight}`);
   console.log(`  Top repos: ${topRepos.length}`);
   console.log(`  Other repos: ${otherRepos.length}`);
