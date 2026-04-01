@@ -35,7 +35,7 @@ const FIRE_ATTACK = 0.12;
 const FIRE_RELEASE = 0.025;
 
 // Bauhaus palette
-const BG = "#f5f3f0";
+const BG = "#ffffff";
 const FG = "#1a1a1a";
 const FG_SEC = "#6b6b6b";
 const FG_TER = "#a0a0a0";

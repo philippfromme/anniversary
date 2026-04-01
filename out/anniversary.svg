@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1480" height="824" viewBox="0 0 1480 824">
-<rect width="1480" height="824" fill="#f5f3f0" />
+<rect width="1480" height="824" fill="#ffffff" />
 <style>@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700');</style>
 <text x="200" y="40" fill="#1a1a1a" font-family="'Space Mono', monospace" font-size="24" font-weight="700">10 years x 1 developer = 10X developer</text>
 <text x="200" y="62" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11">4615 commits · 106 repos · 2016–2026</text>

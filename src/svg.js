@@ -14,7 +14,7 @@ import { resolve } from "path";
 import { COMMITS_JSON, OUT_DIR, SINCE, UNTIL } from "./config.js";
 
 // --- Palette (matches web player) ---
-const BG = "#f5f3f0";
+const BG = "#ffffff";
 const FG = "#1a1a1a";
 const FG_SEC = "#6b6b6b";
 const FG_TER = "#a0a0a0";
