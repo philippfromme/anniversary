@@ -3,7 +3,7 @@
 <rect width="1480" height="824" fill="#ffffff" />
 <style>@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700');</style>
 <text x="200" y="40" fill="#1a1a1a" font-family="'Space Mono', monospace" font-size="24" font-weight="700">10 years x 1 developer = 10X developer</text>
-<text x="200" y="62" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11">4615 commits · 106 repos · 2016–2026</text>
+<text x="200" y="62" fill="#6b6b6b" font-family="'Space Mono', monospace" font-size="11">4772 commits · 108 repos · 2016–2026</text>
 <rect x="200" y="80" width="1200" height="2" fill="#1a1a1a" />
 <line x1="200" y1="92" x2="200" y2="764" stroke="#d0ccc6" stroke-width="0.5" />
 <text x="200" y="780" text-anchor="middle" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="9">2016</text>
@@ -30,7 +30,7 @@
 <rect x="200" y="92" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="124" width="1200" height="1.5" fill="#1a1a1a" />
 <text x="190" y="112" text-anchor="end" fill="#1a1a1a" font-family="'Space Mono', monospace" font-size="12" font-weight="700">camunda-modeler</text>
-<text x="1408" y="112" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">814</text>
+<text x="1408" y="112" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">816</text>
 <rect x="968.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +43178 lines</title></rect>
 <rect x="1379.4" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +32592 lines</title></rect>
 <rect x="313.5" y="104" width="8" height="8" fill="#216e39"><title>camunda/camunda-modeler: +24500 lines</title></rect>
@@ -382,190 +382,201 @@
 <rect x="922.7" y="328" width="8" height="8" fill="#9be9a8"><title>bpmn-io/form-js: +1 lines</title></rect>
 <rect x="200" y="348" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="380" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="368" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">task-testing</text>
-<text x="1408" y="368" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">129</text>
-<rect x="1388.6" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +46033 lines</title></rect>
-<rect x="1375.7" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +43162 lines</title></rect>
-<rect x="1320.4" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +1878 lines</title></rect>
-<rect x="1358.7" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +362 lines</title></rect>
-<rect x="1341.3" y="360" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +286 lines</title></rect>
-<rect x="1331.1" y="360" width="8" height="8" fill="#30a14e"><title>camunda/task-testing: +52 lines</title></rect>
+<text x="190" y="368" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-hub</text>
+<text x="1408" y="368" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">138</text>
+<rect x="1288.7" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +3148 lines</title></rect>
+<rect x="1136.3" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +1425 lines</title></rect>
+<rect x="1214.4" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +1091 lines</title></rect>
+<rect x="1395.5" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +616 lines</title></rect>
+<rect x="1385.0" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +529 lines</title></rect>
+<rect x="1145.8" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +526 lines</title></rect>
+<rect x="1328.8" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +389 lines</title></rect>
+<rect x="1368.6" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +284 lines</title></rect>
+<rect x="1338.7" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +283 lines</title></rect>
+<rect x="1169.1" y="360" width="8" height="8" fill="#216e39"><title>camunda/camunda-hub: +267 lines</title></rect>
+<rect x="1357.4" y="360" width="8" height="8" fill="#30a14e"><title>camunda/camunda-hub: +145 lines</title></rect>
+<rect x="1159.0" y="360" width="8" height="8" fill="#30a14e"><title>camunda/camunda-hub: +106 lines</title></rect>
+<rect x="1200.7" y="360" width="8" height="8" fill="#40c463"><title>camunda/camunda-hub: +16 lines</title></rect>
 <rect x="200" y="412" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="400" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-bpmn-js</text>
-<text x="1408" y="400" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">122</text>
-<rect x="922.0" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +10488 lines</title></rect>
-<rect x="956.8" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +4869 lines</title></rect>
-<rect x="853.3" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +2014 lines</title></rect>
-<rect x="1027.9" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +1110 lines</title></rect>
-<rect x="1168.1" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +797 lines</title></rect>
-<rect x="899.4" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +665 lines</title></rect>
-<rect x="1370.9" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +596 lines</title></rect>
-<rect x="1321.9" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +537 lines</title></rect>
-<rect x="1115.5" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +399 lines</title></rect>
-<rect x="1043.6" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +317 lines</title></rect>
-<rect x="1254.2" y="392" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +240 lines</title></rect>
-<rect x="1177.8" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +145 lines</title></rect>
-<rect x="968.4" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +96 lines</title></rect>
-<rect x="1195.4" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +52 lines</title></rect>
-<rect x="913.2" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +37 lines</title></rect>
-<rect x="1226.3" y="392" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +36 lines</title></rect>
-<rect x="1127.7" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +29 lines</title></rect>
-<rect x="982.2" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +28 lines</title></rect>
-<rect x="991.0" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +24 lines</title></rect>
-<rect x="1204.9" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +24 lines</title></rect>
-<rect x="1011.4" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +21 lines</title></rect>
-<rect x="1055.7" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +16 lines</title></rect>
-<rect x="1149.4" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +16 lines</title></rect>
-<rect x="1088.2" y="392" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +6 lines</title></rect>
+<text x="190" y="400" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">task-testing</text>
+<text x="1408" y="400" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">133</text>
+<rect x="1325.6" y="392" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +208221 lines</title></rect>
+<rect x="1388.6" y="392" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +46033 lines</title></rect>
+<rect x="1375.7" y="392" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +43162 lines</title></rect>
+<rect x="1358.7" y="392" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +362 lines</title></rect>
+<rect x="1341.3" y="392" width="8" height="8" fill="#216e39"><title>camunda/task-testing: +286 lines</title></rect>
+<rect x="1317.6" y="392" width="8" height="8" fill="#30a14e"><title>camunda/task-testing: +158 lines</title></rect>
 <rect x="200" y="412" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="444" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="432" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">improved-canvas</text>
-<text x="1408" y="432" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">120</text>
-<rect x="1166.8" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +113543 lines</title></rect>
-<rect x="1148.1" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +32540 lines</title></rect>
-<rect x="1133.3" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +397 lines</title></rect>
-<rect x="1200.7" y="424" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +367 lines</title></rect>
-<rect x="1214.1" y="424" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +180 lines</title></rect>
-<rect x="1316.3" y="424" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +111 lines</title></rect>
-<rect x="1175.3" y="424" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +72 lines</title></rect>
+<text x="190" y="432" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-bpmn-js</text>
+<text x="1408" y="432" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">122</text>
+<rect x="922.0" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +10488 lines</title></rect>
+<rect x="956.8" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +4869 lines</title></rect>
+<rect x="853.3" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +2014 lines</title></rect>
+<rect x="1027.9" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +1110 lines</title></rect>
+<rect x="1168.1" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +797 lines</title></rect>
+<rect x="899.4" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +665 lines</title></rect>
+<rect x="1370.9" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +596 lines</title></rect>
+<rect x="1321.9" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +537 lines</title></rect>
+<rect x="1115.5" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +399 lines</title></rect>
+<rect x="1043.6" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +317 lines</title></rect>
+<rect x="1254.2" y="424" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js: +240 lines</title></rect>
+<rect x="1177.8" y="424" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +145 lines</title></rect>
+<rect x="968.4" y="424" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +96 lines</title></rect>
+<rect x="1195.4" y="424" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +52 lines</title></rect>
+<rect x="913.2" y="424" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +37 lines</title></rect>
+<rect x="1226.3" y="424" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js: +36 lines</title></rect>
+<rect x="1127.7" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +29 lines</title></rect>
+<rect x="982.2" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +28 lines</title></rect>
+<rect x="991.0" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +24 lines</title></rect>
+<rect x="1204.9" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +24 lines</title></rect>
+<rect x="1011.4" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +21 lines</title></rect>
+<rect x="1055.7" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +16 lines</title></rect>
+<rect x="1149.4" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +16 lines</title></rect>
+<rect x="1088.2" y="424" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js: +6 lines</title></rect>
 <rect x="200" y="476" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="464" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">table-js</text>
-<text x="1408" y="464" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">94</text>
-<rect x="384.1" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +15252 lines</title></rect>
-<rect x="1220.7" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +2811 lines</title></rect>
-<rect x="684.8" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +1888 lines</title></rect>
-<rect x="427.9" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +1489 lines</title></rect>
-<rect x="394.0" y="456" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +572 lines</title></rect>
-<rect x="748.2" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +135 lines</title></rect>
-<rect x="359.1" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +131 lines</title></rect>
-<rect x="475.5" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +119 lines</title></rect>
-<rect x="841.3" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +57 lines</title></rect>
-<rect x="416.6" y="456" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +56 lines</title></rect>
-<rect x="443.9" y="456" width="8" height="8" fill="#40c463"><title>bpmn-io/table-js: +26 lines</title></rect>
-<rect x="407.8" y="456" width="8" height="8" fill="#40c463"><title>bpmn-io/table-js: +10 lines</title></rect>
-<rect x="632.9" y="456" width="8" height="8" fill="#9be9a8"><title>bpmn-io/table-js: +4 lines</title></rect>
+<text x="190" y="464" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">improved-canvas</text>
+<text x="1408" y="464" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">120</text>
+<rect x="1166.8" y="456" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +113543 lines</title></rect>
+<rect x="1148.1" y="456" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +32540 lines</title></rect>
+<rect x="1133.3" y="456" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +397 lines</title></rect>
+<rect x="1200.7" y="456" width="8" height="8" fill="#216e39"><title>camunda/improved-canvas: +367 lines</title></rect>
+<rect x="1214.1" y="456" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +180 lines</title></rect>
+<rect x="1316.3" y="456" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +111 lines</title></rect>
+<rect x="1175.3" y="456" width="8" height="8" fill="#30a14e"><title>camunda/improved-canvas: +72 lines</title></rect>
 <rect x="200" y="476" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="508" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="496" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-element-templates</text>
-<text x="1408" y="496" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">89</text>
-<rect x="860.2" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +10555 lines</title></rect>
-<rect x="512.9" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +3245 lines</title></rect>
-<rect x="531.6" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +3030 lines</title></rect>
-<rect x="966.1" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +1124 lines</title></rect>
-<rect x="1356.8" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +858 lines</title></rect>
-<rect x="1322.2" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +670 lines</title></rect>
-<rect x="888.9" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +285 lines</title></rect>
-<rect x="1150.4" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +277 lines</title></rect>
-<rect x="1197.7" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +241 lines</title></rect>
-<rect x="903.4" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +76 lines</title></rect>
-<rect x="948.3" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +50 lines</title></rect>
-<rect x="1236.8" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +34 lines</title></rect>
-<rect x="1253.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +32 lines</title></rect>
-<rect x="1098.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +26 lines</title></rect>
-<rect x="914.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +16 lines</title></rect>
-<rect x="990.6" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +16 lines</title></rect>
-<rect x="1186.5" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +14 lines</title></rect>
-<rect x="366.0" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
-<rect x="753.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
-<rect x="848.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
-<rect x="1018.3" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
-<rect x="1033.0" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
-<rect x="1044.9" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
-<rect x="308.9" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
-<rect x="439.6" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
-<rect x="485.3" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
-<rect x="735.4" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
-<rect x="923.0" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
-<rect x="1164.5" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +2 lines</title></rect>
+<text x="190" y="496" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">table-js</text>
+<text x="1408" y="496" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">94</text>
+<rect x="384.1" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +15252 lines</title></rect>
+<rect x="1220.7" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +2811 lines</title></rect>
+<rect x="684.8" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +1888 lines</title></rect>
+<rect x="427.9" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +1489 lines</title></rect>
+<rect x="394.0" y="488" width="8" height="8" fill="#216e39"><title>bpmn-io/table-js: +572 lines</title></rect>
+<rect x="748.2" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +135 lines</title></rect>
+<rect x="359.1" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +131 lines</title></rect>
+<rect x="475.5" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +119 lines</title></rect>
+<rect x="841.3" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +57 lines</title></rect>
+<rect x="416.6" y="488" width="8" height="8" fill="#30a14e"><title>bpmn-io/table-js: +56 lines</title></rect>
+<rect x="443.9" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/table-js: +26 lines</title></rect>
+<rect x="407.8" y="488" width="8" height="8" fill="#40c463"><title>bpmn-io/table-js: +10 lines</title></rect>
+<rect x="632.9" y="488" width="8" height="8" fill="#9be9a8"><title>bpmn-io/table-js: +4 lines</title></rect>
 <rect x="200" y="540" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="528" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-token-simulation</text>
-<text x="1408" y="528" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">80</text>
-<rect x="479.1" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +8235 lines</title></rect>
-<rect x="501.4" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +7511 lines</title></rect>
-<rect x="487.6" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +4506 lines</title></rect>
-<rect x="516.9" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +4218 lines</title></rect>
-<rect x="364.2" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +3991 lines</title></rect>
-<rect x="1375.5" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +664 lines</title></rect>
-<rect x="1201.3" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +534 lines</title></rect>
-<rect x="1016.4" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +414 lines</title></rect>
-<rect x="807.7" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +316 lines</title></rect>
-<rect x="705.5" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +214 lines</title></rect>
-<rect x="945.9" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +156 lines</title></rect>
-<rect x="1143.5" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +83 lines</title></rect>
-<rect x="373.0" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +54 lines</title></rect>
-<rect x="620.6" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-token-simulation: +4 lines</title></rect>
+<text x="190" y="528" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-element-templates</text>
+<text x="1408" y="528" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">89</text>
+<rect x="860.2" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +10555 lines</title></rect>
+<rect x="512.9" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +3245 lines</title></rect>
+<rect x="531.6" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +3030 lines</title></rect>
+<rect x="966.1" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +1124 lines</title></rect>
+<rect x="1356.8" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +858 lines</title></rect>
+<rect x="1322.2" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +670 lines</title></rect>
+<rect x="888.9" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +285 lines</title></rect>
+<rect x="1150.4" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +277 lines</title></rect>
+<rect x="1197.7" y="520" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-element-templates: +241 lines</title></rect>
+<rect x="903.4" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +76 lines</title></rect>
+<rect x="948.3" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +50 lines</title></rect>
+<rect x="1236.8" y="520" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-element-templates: +34 lines</title></rect>
+<rect x="1253.8" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +32 lines</title></rect>
+<rect x="1098.8" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +26 lines</title></rect>
+<rect x="914.8" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +16 lines</title></rect>
+<rect x="990.6" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +16 lines</title></rect>
+<rect x="1186.5" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +14 lines</title></rect>
+<rect x="366.0" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
+<rect x="753.8" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
+<rect x="848.8" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +8 lines</title></rect>
+<rect x="1018.3" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
+<rect x="1033.0" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
+<rect x="1044.9" y="520" width="8" height="8" fill="#40c463"><title>bpmn-io/bpmn-js-element-templates: +6 lines</title></rect>
+<rect x="308.9" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="439.6" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="485.3" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="735.4" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="923.0" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +4 lines</title></rect>
+<rect x="1164.5" y="520" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-element-templates: +2 lines</title></rect>
 <rect x="200" y="540" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="572" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="560" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">properties-panel</text>
-<text x="1408" y="560" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">66</text>
-<rect x="1123.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +20235 lines</title></rect>
-<rect x="1288.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +1392 lines</title></rect>
-<rect x="911.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +615 lines</title></rect>
-<rect x="945.8" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +389 lines</title></rect>
-<rect x="1253.5" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +337 lines</title></rect>
-<rect x="1067.2" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +287 lines</title></rect>
-<rect x="971.3" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +162 lines</title></rect>
-<rect x="1215.1" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +149 lines</title></rect>
-<rect x="854.9" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +144 lines</title></rect>
-<rect x="1199.0" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +26 lines</title></rect>
-<rect x="867.1" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
-<rect x="1225.9" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
-<rect x="1319.6" y="552" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
+<text x="190" y="560" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-js-token-simulation</text>
+<text x="1408" y="560" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">80</text>
+<rect x="479.1" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +8235 lines</title></rect>
+<rect x="501.4" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +7511 lines</title></rect>
+<rect x="487.6" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +4506 lines</title></rect>
+<rect x="516.9" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +4218 lines</title></rect>
+<rect x="364.2" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +3991 lines</title></rect>
+<rect x="1375.5" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +664 lines</title></rect>
+<rect x="1201.3" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +534 lines</title></rect>
+<rect x="1016.4" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +414 lines</title></rect>
+<rect x="807.7" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +316 lines</title></rect>
+<rect x="705.5" y="552" width="8" height="8" fill="#216e39"><title>bpmn-io/bpmn-js-token-simulation: +214 lines</title></rect>
+<rect x="945.9" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +156 lines</title></rect>
+<rect x="1143.5" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +83 lines</title></rect>
+<rect x="373.0" y="552" width="8" height="8" fill="#30a14e"><title>bpmn-io/bpmn-js-token-simulation: +54 lines</title></rect>
+<rect x="620.6" y="552" width="8" height="8" fill="#9be9a8"><title>bpmn-io/bpmn-js-token-simulation: +4 lines</title></rect>
 <rect x="200" y="604" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="592" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-bpmn-js-behaviors</text>
+<text x="190" y="592" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">properties-panel</text>
 <text x="1408" y="592" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">66</text>
-<rect x="922.6" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +10395 lines</title></rect>
-<rect x="963.1" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +2115 lines</title></rect>
-<rect x="1127.1" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +380 lines</title></rect>
-<rect x="1029.8" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +355 lines</title></rect>
-<rect x="1094.2" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +333 lines</title></rect>
-<rect x="1226.6" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +295 lines</title></rect>
-<rect x="1106.4" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +271 lines</title></rect>
-<rect x="1053.5" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +268 lines</title></rect>
-<rect x="1203.6" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +208 lines</title></rect>
-<rect x="1044.9" y="584" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +194 lines</title></rect>
-<rect x="989.7" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +138 lines</title></rect>
-<rect x="1193.8" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +128 lines</title></rect>
-<rect x="1306.5" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +97 lines</title></rect>
-<rect x="1322.2" y="584" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +76 lines</title></rect>
-<rect x="1236.8" y="584" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js-behaviors: +24 lines</title></rect>
-<rect x="875.7" y="584" width="8" height="8" fill="#9be9a8"><title>camunda/camunda-bpmn-js-behaviors: +1 lines</title></rect>
+<rect x="1123.1" y="584" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +20235 lines</title></rect>
+<rect x="1288.1" y="584" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +1392 lines</title></rect>
+<rect x="911.1" y="584" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +615 lines</title></rect>
+<rect x="945.8" y="584" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +389 lines</title></rect>
+<rect x="1253.5" y="584" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +337 lines</title></rect>
+<rect x="1067.2" y="584" width="8" height="8" fill="#216e39"><title>bpmn-io/properties-panel: +287 lines</title></rect>
+<rect x="971.3" y="584" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +162 lines</title></rect>
+<rect x="1215.1" y="584" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +149 lines</title></rect>
+<rect x="854.9" y="584" width="8" height="8" fill="#30a14e"><title>bpmn-io/properties-panel: +144 lines</title></rect>
+<rect x="1199.0" y="584" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +26 lines</title></rect>
+<rect x="867.1" y="584" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
+<rect x="1225.9" y="584" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
+<rect x="1319.6" y="584" width="8" height="8" fill="#40c463"><title>bpmn-io/properties-panel: +6 lines</title></rect>
 <rect x="200" y="604" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="636" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="624" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">diagram-js-minimap</text>
-<text x="1408" y="624" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">60</text>
-<rect x="324.6" y="616" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +1202 lines</title></rect>
-<rect x="615.8" y="616" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +286 lines</title></rect>
-<rect x="457.4" y="616" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +233 lines</title></rect>
-<rect x="468.5" y="616" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +112 lines</title></rect>
-<rect x="566.1" y="616" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +53 lines</title></rect>
-<rect x="344.4" y="616" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +37 lines</title></rect>
-<rect x="333.5" y="616" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js-minimap: +20 lines</title></rect>
-<rect x="1012.0" y="616" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js-minimap: +15 lines</title></rect>
-<rect x="395.3" y="616" width="8" height="8" fill="#9be9a8"><title>bpmn-io/diagram-js-minimap: +2 lines</title></rect>
+<text x="190" y="624" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-bpmn-js-behaviors</text>
+<text x="1408" y="624" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">66</text>
+<rect x="922.6" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +10395 lines</title></rect>
+<rect x="963.1" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +2115 lines</title></rect>
+<rect x="1127.1" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +380 lines</title></rect>
+<rect x="1029.8" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +355 lines</title></rect>
+<rect x="1094.2" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +333 lines</title></rect>
+<rect x="1226.6" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +295 lines</title></rect>
+<rect x="1106.4" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +271 lines</title></rect>
+<rect x="1053.5" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +268 lines</title></rect>
+<rect x="1203.6" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +208 lines</title></rect>
+<rect x="1044.9" y="616" width="8" height="8" fill="#216e39"><title>camunda/camunda-bpmn-js-behaviors: +194 lines</title></rect>
+<rect x="989.7" y="616" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +138 lines</title></rect>
+<rect x="1193.8" y="616" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +128 lines</title></rect>
+<rect x="1306.5" y="616" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +97 lines</title></rect>
+<rect x="1322.2" y="616" width="8" height="8" fill="#30a14e"><title>camunda/camunda-bpmn-js-behaviors: +76 lines</title></rect>
+<rect x="1236.8" y="616" width="8" height="8" fill="#40c463"><title>camunda/camunda-bpmn-js-behaviors: +24 lines</title></rect>
+<rect x="875.7" y="616" width="8" height="8" fill="#9be9a8"><title>camunda/camunda-bpmn-js-behaviors: +1 lines</title></rect>
 <rect x="200" y="668" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="656" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">refactorings</text>
-<text x="1408" y="656" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">59</text>
-<rect x="1190.8" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/refactorings: +109747 lines</title></rect>
-<rect x="1157.3" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/refactorings: +2956 lines</title></rect>
-<rect x="1257.9" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +18 lines</title></rect>
-<rect x="1200.1" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +17 lines</title></rect>
-<rect x="1106.6" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +13 lines</title></rect>
-<rect x="1166.8" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +6 lines</title></rect>
+<text x="190" y="656" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">diagram-js-minimap</text>
+<text x="1408" y="656" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">60</text>
+<rect x="324.6" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +1202 lines</title></rect>
+<rect x="615.8" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +286 lines</title></rect>
+<rect x="457.4" y="648" width="8" height="8" fill="#216e39"><title>bpmn-io/diagram-js-minimap: +233 lines</title></rect>
+<rect x="468.5" y="648" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +112 lines</title></rect>
+<rect x="566.1" y="648" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +53 lines</title></rect>
+<rect x="344.4" y="648" width="8" height="8" fill="#30a14e"><title>bpmn-io/diagram-js-minimap: +37 lines</title></rect>
+<rect x="333.5" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js-minimap: +20 lines</title></rect>
+<rect x="1012.0" y="648" width="8" height="8" fill="#40c463"><title>bpmn-io/diagram-js-minimap: +15 lines</title></rect>
+<rect x="395.3" y="648" width="8" height="8" fill="#9be9a8"><title>bpmn-io/diagram-js-minimap: +2 lines</title></rect>
 <rect x="200" y="668" width="1200" height="32" fill="rgba(0,0,0,0.02)" />
 <rect x="200" y="700" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="688" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-copilot</text>
-<text x="1408" y="688" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">56</text>
-<rect x="1231.3" y="680" width="8" height="8" fill="#216e39"><title>camunda/bpmn-copilot: +21836 lines</title></rect>
-<rect x="1253.7" y="680" width="8" height="8" fill="#216e39"><title>camunda/bpmn-copilot: +1703 lines</title></rect>
-<rect x="1218.8" y="680" width="8" height="8" fill="#30a14e"><title>camunda/bpmn-copilot: +57 lines</title></rect>
+<text x="190" y="688" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">refactorings</text>
+<text x="1408" y="688" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">59</text>
+<rect x="1190.8" y="680" width="8" height="8" fill="#216e39"><title>bpmn-io/refactorings: +109747 lines</title></rect>
+<rect x="1157.3" y="680" width="8" height="8" fill="#216e39"><title>bpmn-io/refactorings: +2956 lines</title></rect>
+<rect x="1257.9" y="680" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +18 lines</title></rect>
+<rect x="1200.1" y="680" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +17 lines</title></rect>
+<rect x="1106.6" y="680" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +13 lines</title></rect>
+<rect x="1166.8" y="680" width="8" height="8" fill="#40c463"><title>bpmn-io/refactorings: +6 lines</title></rect>
 <rect x="200" y="732" width="1200" height="0.5" fill="#d0ccc6" />
-<text x="190" y="720" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">camunda-forms</text>
-<text x="1408" y="720" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">55</text>
-<rect x="780.4" y="712" width="8" height="8" fill="#216e39"><title>bpmn-io/camunda-forms: +43704 lines</title></rect>
-<rect x="769.9" y="712" width="8" height="8" fill="#216e39"><title>bpmn-io/camunda-forms: +6736 lines</title></rect>
-<text x="190" y="752" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">+86 more</text>
-<text x="1408" y="752" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">840</text>
+<text x="190" y="720" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11" font-weight="400">bpmn-copilot</text>
+<text x="1408" y="720" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">56</text>
+<rect x="1231.3" y="712" width="8" height="8" fill="#216e39"><title>camunda/bpmn-copilot: +21836 lines</title></rect>
+<rect x="1253.7" y="712" width="8" height="8" fill="#216e39"><title>camunda/bpmn-copilot: +1703 lines</title></rect>
+<rect x="1218.8" y="712" width="8" height="8" fill="#30a14e"><title>camunda/bpmn-copilot: +57 lines</title></rect>
+<text x="190" y="752" text-anchor="end" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">+88 more</text>
+<text x="1408" y="752" fill="#a0a0a0" font-family="'Space Mono', monospace" font-size="11">908</text>
 <rect x="208.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="208.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="210.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -956,6 +967,18 @@
 <rect x="772.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="772.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="772.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="773.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="773.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="773.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="774.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="774.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="774.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="774.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="774.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="774.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="775.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="775.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="775.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="776.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -965,6 +988,49 @@
 <rect x="777.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="777.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="779.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="779.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="781.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="782.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="783.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="784.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="785.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="786.3" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="786.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="788.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="788.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="788.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="790.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="790.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="790.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -1123,6 +1189,7 @@
 <rect x="1084.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1093.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1093.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1093.6" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1093.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1094.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1096.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -1149,6 +1216,7 @@
 <rect x="1135.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1135.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1135.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1135.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1135.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1135.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1135.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -1178,6 +1246,7 @@
 <rect x="1174.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1174.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1174.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1175.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1175.0" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1175.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1175.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -1232,6 +1301,8 @@
 <rect x="1212.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1213.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1213.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1213.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1213.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1213.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1214.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1214.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -1322,13 +1393,20 @@
 <rect x="1262.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1263.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1263.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1263.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1263.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1263.9" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1264.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1264.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1282.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1282.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1283.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1284.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1291.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1291.5" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1312.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1312.4" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1313.1" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
@@ -1366,6 +1444,7 @@
 <rect x="1326.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1328.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1332.7" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
+<rect x="1332.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1332.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1332.8" y="741.6" width="1" height="12.8" fill="#d0ccc6" />
 <rect x="1333.2" y="741.6" width="1" height="12.8" fill="#d0ccc6" />

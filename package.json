@@ -8,8 +8,9 @@
     "extract": "node src/extract.js",
     "svg": "node src/svg.js",
     "markdown": "node src/markdown.js",
-    "generate": "node src/extract.js && node src/svg.js && node src/markdown.js",
-    "all": "node src/discover-repos.js && node src/clone-repos.js && node src/extract.js && node src/svg.js",
+    "slack": "node src/slack.js",
+    "generate": "node src/extract.js && node src/svg.js && node src/markdown.js && node src/slack.js",
+    "all": "node src/discover-repos.js && node src/clone-repos.js && node src/extract.js && node src/svg.js && node src/markdown.js && node src/slack.js",
     "build": "vite build",
     "dev": "vite"
   },
