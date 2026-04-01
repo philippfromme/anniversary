@@ -3,4 +3,5 @@ node_modules
 out
 !out/anniversary.svg
 !out/anniversary.md
+!out/commits.json
 repos
